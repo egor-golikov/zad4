@@ -1,0 +1,22 @@
+[
+    {
+        "command": "LOAD_CONSTANT",
+        "A": 63,
+        "B": 366
+    },
+    {
+        "command": "READ_MEMORY",
+        "A": 32,
+        "B": 524
+    },
+    {
+        "command": "WRITE_MEMORY",
+        "A": 97,
+        "B": 79
+    },
+    {
+        "command": "MAX",
+        "A": 144,
+        "B": 895
+    }
+]
